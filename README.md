@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &emsp; [![GitHub license](https://img.shields.io/badge/Made%20by-GROUP%2013-9cf?style=flat&logo=github)](http://https://github.com/SIROG-E)  
   
+  Deployed Here: http://rubbishrumble.herokuapp.com/
+  
   ## Description
 
  Rubbish Rumble is a one-player game where the user can create and name the characters created by giving them an avatar and by selecting a battle advantage. The user's characters will battle a unique database of opponent characters. This app allows to save characters and assign those characters according to users. Users are able to log back in and see the characters they had previously created. 
